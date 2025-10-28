@@ -1,3 +1,6 @@
 [submodule "hbb_common"]
 	path = hbb_common
 	url = https://github.com/Stevebell-sp/hbb_common
+[submodule "libs/hbb_common"]
+	path = libs/hbb_common
+	url = https://github.com/Stevebell-sp/hbb_common
